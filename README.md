@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/HeddleFlow/HeddleFlow/main/.github/assets/heddleflow-mark.svg" alt="" width="64" height="64">
-
-# HeddleFlow Example
+# <img src="https://raw.githubusercontent.com/HeddleFlow/HeddleFlow/main/.github/assets/heddleflow-mark.svg" alt="" height="32"> HeddleFlow Example
 
 **An example project built with HeddleFlow, from an idea to running code.** Read it to see what a project looks like
 with HeddleFlow at work, or fork it to try HeddleFlow on something real.
