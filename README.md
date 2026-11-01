@@ -6,7 +6,7 @@
 with HeddleFlow at work, or fork it to try HeddleFlow on something real.
 
 > **Status: not started.** The example is built once HeddleFlow can carry a product from an idea to its first running
-> code. Until then this repository holds only this page.
+> code. Until then this repository holds only this page and its licence.
 
 ## What you will find here
 
@@ -31,5 +31,5 @@ How to install HeddleFlow into a project of your own is in
 
 ## Licence
 
-Apache License 2.0. HeddleFlow™ and the HeddleFlow name are trademarks of Vikas Burman, which the licence does not
-grant.
+Apache License 2.0; see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE). HeddleFlow™ and the HeddleFlow name are
+trademarks of Vikas Burman, which the licence does not grant.
